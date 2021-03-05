@@ -5,3 +5,6 @@ Wanted to know what a chessgame looks like when you don't know the rules and onl
 
 
 Check out a description of the bot here!
+
+
+Before you can run `the_bot.py` you have to train a model with `GPT2Mod.py`. The training will take some time but it only needs to be run once! 
